@@ -1,0 +1,6 @@
+use_frameworks!
+target 'MyTestLib_Tests' do
+  pod 'MyTestLib', :path => '../'
+  
+  
+end
