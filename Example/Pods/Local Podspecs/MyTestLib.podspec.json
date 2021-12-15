@@ -1,0 +1,22 @@
+{
+  "name": "MyTestLib",
+  "version": "0.1.0",
+  "summary": "A short description of MyTestLib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/abdomi7/MyTestLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "abdomi7": "56141588+abdomi7@users.noreply.github.com"
+  },
+  "source": {
+    "git": "https://github.com/abdomi7/MyTestLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "MyTestLib/Classes/**/*"
+}
