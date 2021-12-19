@@ -1,0 +1,6 @@
+framework module MDMFaceTracker {
+  umbrella header "MDMFaceTracker.h"
+
+  export *
+  module * { export * }
+}
