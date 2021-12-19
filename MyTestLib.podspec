@@ -27,7 +27,7 @@ Pod::Spec.new do |s|
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '9.0'
-  s.vendored_frameworks = 'path/to/Frameworks.framework'
+  s.vendored_frameworks = 'MyTestLib/Frameworks.framework'
   s.source_files = 'MyTestLib/Classes/**/*'
   
   # s.resource_bundles = {
